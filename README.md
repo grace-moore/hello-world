@@ -2,4 +2,14 @@ I am Grace Moore, a Tippie Business College student studying Business Analytics 
 This repository is for practice the GitHub Flow
 ## Project Title
 
-Hello World Repository 
+**Hello World Repository**
+
+## Description
+
+*Learning how to create...*
+
+- a repository
+- a branch
+- make and commit changes
+- open a pull request
+- merge a pull request 
